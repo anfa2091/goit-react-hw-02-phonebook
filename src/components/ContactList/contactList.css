@@ -10,3 +10,8 @@
   gap: 5px;
   justify-content: space-between;
 }
+
+button{
+  background-color: rgba(0, 128, 0, 0.3);
+  color: hsla(140, 40%, 30%);
+}
